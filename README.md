@@ -1,7 +1,10 @@
 # SQL_PIZZA_SALES_ANALYSIS
 
 #This project is focused on analyzing pizza sales data using SQL queries.
+
 #The goal is to generate insights into customer behavior, revenue distribution, and the popularity of various pizza types and sizes. 
+
+
 #The following SQL queries are used to retrieve meaningful information:
 
 
